@@ -1,0 +1,14 @@
+# Ignore build directory
+build/
+
+# Ignore compiled executables
+titan_engine
+*.exe
+*.out
+
+# Ignore object files
+*.o
+
+# Ignore IDE settings
+.vscode/
+.DS_Store
